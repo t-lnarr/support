@@ -1,0 +1,5 @@
+aiogram==3.*
+asyncpg
+google-generativeai
+python-dotenv
+requests
